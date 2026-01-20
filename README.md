@@ -89,7 +89,11 @@ L’application permet de gérer une liste de contacts stockée dans un fichier 
 ![Carte Luc Tournie](luc_tournie_card.png)
 ![Carte Noa Doumbia](noa_doumbia_card.png)
 
-<img src="vcard/charles_feuntun_card.png" width="200px">
+<img src="vcard/charles_feuntun_card.png" width="600px">
+<img src="vcard/enzo_dufour_card.png" width="500px">
+<img src="vcard/(luc_tournie_card.png" width="400px">
+<img src="vcard/noa_doumbia_card.png" width="300px">
+
 
 
 
