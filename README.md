@@ -1,5 +1,6 @@
 # TP-Gestion-Projet-1
 
+ | <img src="python/logo.png" width="800px" alt="Carnus"> |
 
 **Développement Python avec GitHub Projects (Kanban & Roadmap)**
 
