@@ -40,32 +40,32 @@ L’application permet de gérer une liste de contacts stockée dans un fichier 
 
 | Issue                     | Description                         | Responsable | Sprint   | Début | Fin   |
 | ------------------------- | ----------------------------------- | ----------- | -------- | ----- | ----- |
-| Création fichier contacts | Stockage des contacts (JSON ou CSV) | Noa         | Sprint 1 | 19/01 | 20/01 |
-| Ajouter un contact        | Ajout d’un contact                  | Charles     | Sprint 1 | 19/01 | 21/01 |
+| Création fichier contacts | Stockage des contacts (JSON ou CSV) | Noa         | Sprint 1 | 15/01 | 17/01 |
+| Ajouter un contact        | Ajout d’un contact                  | Charles     | Sprint 1 | 15/01 | 18/01 |
 | Supprimer un contact      | Suppression d’un contact            | Charles     | Sprint 1 | 20/01 | 22/01 |
 | Lister les contacts       | Affichage des contacts              | Luc         | Sprint 1 | 20/01 | 22/01 |
-| Tests unitaires           | Vérification des fonctionnalités    | Enzo        | Sprint 2 | 22/01 | 23/01 |
-| Documentation utilisateur | Procédure d’utilisation             | Luc         | Sprint 2 | 22/01 | 23/01 |
+| Tests unitaires           | Vérification des fonctionnalités    | Enzo        | Sprint 2 | 25/01 | 27/01 |
+| Documentation utilisateur | Procédure d’utilisation             | Luc         | Sprint 2 | 25/01 | 28/01 |
 
 ## Répartition des rôles
 
-### 1. Chef de projet / Scrum Master
+### 1. Chef de projet / Scrum Master - Doumbia Noa
 
 * Création et gestion du **GitHub Project**
 * Suivi du Kanban et de la Roadmap
 * Reporting d’avancement
 
-### 2. Développeur Python principal
+### 2. Développeur Python principal - Feuntun Charles
 
 * Développement des fonctionnalités cœur
 * Mise à jour des issues associées
 
-### 3. Développeur Python secondaire / Testeur
+### 3. Développeur Python secondaire / Testeur - Tournier Luc
 
 * Fonctions complémentaires
 * Tests unitaires simples
 
-### 4. Documentaliste / Testeur
+### 4. Documentaliste / Testeur - Dufour Enzo
 
 * Fiches de test
 * Fiche de recette
