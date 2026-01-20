@@ -82,7 +82,16 @@ L’application permet de gérer une liste de contacts stockée dans un fichier 
 | **Milestones** | Regroupement des issues par versions ou sprints. |
 | **Project (V2)** | Vue Kanban pour le quotidien et vue Roadmap pour la planification. |
 
-👥 Membres de l'ÉquipeNom du ContactAperçu de la CarteCharles Feuntun<img src="vcard/charles_feuntun_card.png" width="400px" alt="Charles Feuntun">Enzo Dufour<img src="vcard/enzo_dufour_card.png" width="400px" alt="Enzo Dufour">Luc Tournié<img src="vcard/luc_tournie_card.png" width="400px" alt="Luc Tournié">Noa Doumbia<img src="vcard/noa_doumbia_card.png" width="400px" alt="Noa Doumbia">
+# 📇 Annuaire des Contacts
+
+Scannez les QR codes ci-dessous pour ajouter directement les membres de l'équipe à vos contacts.
+
+| Nom du Contact | Carte de Visite (vCard) |
+| :--- | :--- |
+| **Charles Feuntun** | <img src="vcard/charles_feuntun_card.png" width="600px" alt="Charles Feuntun"> |
+| **Enzo Dufour** | <img src="vcard/enzo_dufour_card.png" width="600px" alt="Enzo Dufour"> |
+| **Luc Tournié** | <img src="vcard/luc_tournie_card.png" width="600px" alt="Luc Tournié"> |
+| **Noa Doumbia** | <img src="vcard/noa_doumbia_card.png" width="600px" alt="Noa Doumbia"> |
 
 
 
