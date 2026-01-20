@@ -1,6 +1,5 @@
 # TP-Gestion-Projet-1
 
-# TP – Gestion de projet avec GitHub Projects
 
 **Développement Python avec GitHub Projects (Kanban & Roadmap)**
 
